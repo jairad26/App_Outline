@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <item
+        android:id="@+id/nav_home_menu"
+        android:title="Home"/>
+    <item
+        android:id="@+id/nav_food"
+        android:title="Food"/>
+    <item
+        android:id="@+id/nav_clothing"
+        android:title="Clothing"/>
+    <item
+        android:id="@+id/nav_home_necessities"
+        android:title="Home Necessities"/>
+    <item
+        android:id="@+id/nav_medical_equipment"
+        android:title="Medical Equipment"/>
+    <item
+        android:id="@+id/nav_logout"
+        android:title="Logout"/>
+
+
+</menu>

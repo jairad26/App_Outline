@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">83883536772-ipdlb9ttqnjctnj24s05f4mvcbf8l9dl.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://coronavirusapp-7f3ea.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">83883536772</string>
+    <string name="google_api_key" translatable="false">AIzaSyCsA0PmzNWG6vqHjdVDX7WwJJrTcQAs318</string>
+    <string name="google_app_id" translatable="false">1:83883536772:android:db4648cb48948db5c8add1</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCsA0PmzNWG6vqHjdVDX7WwJJrTcQAs318</string>
+    <string name="google_storage_bucket" translatable="false">coronavirusapp-7f3ea.appspot.com</string>
+    <string name="project_id" translatable="false">coronavirusapp-7f3ea</string>
+</resources>
